@@ -1,0 +1,9 @@
+path: D:\Project\Violence-detection
+train: D:\Project\Violence-detection\train
+val: D:\Project\Violence-detection\valid
+test: D:\Project\Violence-detection\test
+
+nc: 2
+names:
+  0: non-violence
+  1: violence
