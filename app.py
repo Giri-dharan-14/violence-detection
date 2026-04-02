@@ -10,8 +10,8 @@ from helpers import draw_banner, has_violence, get_violence_class_id, capture_an
 MODEL_PATH   = "best.pt"
 OUTPUT_DIR   = "outputs/"
 CONFIDENCE   = 0.8
-TELEGRAM_BOT_TOKEN = "8635002568:AAEujNMacsWGnXlOnUR40VtKYkLOTHNdafM"
-TELEGRAM_CHAT_ID   = "1246460641"
+TELEGRAM_BOT_TOKEN = "XXXXXXX"
+TELEGRAM_CHAT_ID   = "XXXXXXX"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
